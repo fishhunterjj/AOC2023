@@ -90,9 +90,9 @@ Both parts: 15.909ms
 
 ```
 Day 04
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 1.955ms
+Time part 2: 7319.208ms
+Both parts: 7321.162ms
 ```
 
 ```
@@ -244,7 +244,7 @@ Both parts: -
 
 ```
 Total stars: 18/50
-Total time: 1618.062ms
+Total time: 8939.224ms
 ```
 
 <!--/RESULTS-->

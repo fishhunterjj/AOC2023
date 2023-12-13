@@ -111,9 +111,9 @@ Both parts: 68.839ms
 
 ```
 Day 07
-Time part 1: -
-Time part 2: -
-Both parts: -
+Time part 1: 4.402ms
+Time part 2: 3.359ms
+Both parts: 7.761ms
 ```
 
 ```
@@ -244,7 +244,7 @@ Both parts: -
 
 ```
 Total stars: 26/50
-Total time: 1273396.079ms
+Total time: 1273403.84ms
 ```
 
 <!--/RESULTS-->

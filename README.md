@@ -249,6 +249,9 @@ Total time: 1339124.861ms
 
 <!--/RESULTS-->
 
----
+## Resources
 
+[This](https://github.com/mebeim/aoc/blob/master/2023/README.md) is awesome!
+
+---
 ✨🎄🎁🎄🎅🎄🎁🎄✨
